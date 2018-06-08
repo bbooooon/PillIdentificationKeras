@@ -72,7 +72,7 @@ class PreviewActivity : AppCompatActivity() {
         val angle: Int = 90
         bitmap = RotateBitmap(bitmap,angle.toFloat())
 
-        val x:Int = bitmap.width*45/100
+        val x:Int = bitmap.width*40/100
         val y:Int = bitmap.height*12/100
         val resize = Bitmap.createBitmap(bitmap, x, y,(bitmap.width/2).toInt(), (bitmap.height/2).toInt())
         preview_imageView.setImageBitmap(resize)
