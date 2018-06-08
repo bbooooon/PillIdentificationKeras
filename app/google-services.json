@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "899314831386",
+    "firebase_url": "https://drugclassification-22870.firebaseio.com",
+    "project_id": "drugclassification-22870",
+    "storage_bucket": "drugclassification-22870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899314831386:android:3026ead33387b8f0",
+        "android_client_info": {
+          "package_name": "com.example.medicineclassification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899314831386-s4jo7jdrmbfrnvrerh354c6kdgvi7vrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicineclassification",
+            "certificate_hash": "20855253d3a905bf9ef8162e1b8c360a809e33c1"
+          }
+        },
+        {
+          "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsNq2sk-PIk7fP_7pRZhKlIBdo79F_Vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899314831386:android:32ca6b19ea8f38c7",
+        "android_client_info": {
+          "package_name": "com.example.pillclassificationkeras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899314831386-nc1upl52ba7kb2nv52m4nnt0o7l4b2gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pillclassificationkeras",
+            "certificate_hash": "20855253d3a905bf9ef8162e1b8c360a809e33c1"
+          }
+        },
+        {
+          "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsNq2sk-PIk7fP_7pRZhKlIBdo79F_Vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899314831386-nlmbfnb8rr010tu3ru2198nvbg68n532.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
